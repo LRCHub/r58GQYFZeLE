@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宇宙のファンタジー",
+  "base_artist": "EARTH,WIND & FIRE",
+  "createdAt": "2026-03-01T12:20:38.937970Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙のファンタジー",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙のファンタジー_Earth,_Wind_&_Fire.txt"
+    }
+  ]
+}
